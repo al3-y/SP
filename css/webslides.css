@@ -137,7 +137,7 @@ audio,
 video {
   border: 0;
   font: inherit;
-  font-size: 100%;
+  font-size: 99%;
   margin: 0;
   padding: 0;
   vertical-align: baseline; }
@@ -810,7 +810,7 @@ table,
 big,
 textarea,
 label {
-  line-height: 3.2rem;
+  line-height: 3.0rem;
   margin-bottom: 3.2rem; }
 
 li,
